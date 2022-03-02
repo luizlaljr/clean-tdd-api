@@ -1,0 +1,8 @@
+{
+  "name": "clean-tdd-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luizlaljr/clean-tdd-api.git",
+  "author": "Luiz Alberto Alves De Brito Junior <luizlaljr@gmail.com>",
+  "license": "MIT"
+}
